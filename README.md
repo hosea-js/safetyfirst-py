@@ -22,8 +22,6 @@ While the main purpose of this bot is to provide earthquake information and aler
 
 ## 📄 Notice
 
-This is the official repository for the **Safety First!** Discord Bot by **26January Developer**.
-
 Earthquake data is provided by the **Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)** through its Public Data API.
 
 ---
@@ -46,7 +44,5 @@ Walaupun tujuan utama bot ini adalah menyediakan informasi dan peringatan gempa 
 - 🚧 Dan masih banyak lagi!
 
 ## 📄 Catatan
-
-Repository ini merupakan repository resmi **Safety First!** Discord Bot oleh **26January Developer**.
 
 Seluruh data gempa bumi diperoleh dari **API Data Publik Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)**.
