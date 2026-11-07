@@ -1,6 +1,7 @@
 import discord
 import dotenv
 import os
+from services import bmkg_servc
 
 dotenv.load_dotenv()
 intents = discord.Intents.default()
