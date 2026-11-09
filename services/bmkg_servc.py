@@ -1,7 +1,7 @@
 import aiohttp
 import time as tm
 
-TTL = 120
+TTL = 30
 _cached = None
 _fetched_at = 0.0
 
