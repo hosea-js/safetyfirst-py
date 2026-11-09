@@ -16,6 +16,11 @@ tree = discord.app_commands.CommandTree(client)
 async def ping(interaction: discord.Interaction):
     await interaction.response.send_message("Pong!")
 
+# Command will be developed later after caching system working and ready.
+# @tree.command(name="status", description="Check the status for API that used, Discord Gateaway status, and other information.")
+# async def status(interaction: discord.interaction):
+#    await 
+
 @tree.command(name="quake", description="Get the latest earthquake")
 async def quake(interaction: discord.Interaction):
     data = await bmkg_servc.get_latest_quake()
